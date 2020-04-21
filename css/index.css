@@ -71,6 +71,7 @@ p {
     width: 100%;
 }
 .nav-section #nav-img {
+
     margin-top: 3%;
     margin-left: 3%;
 }
@@ -179,7 +180,7 @@ p {
 .bottom-content {
     display: flex;
     width: 800px;
-    margin: 5% 5% 20px;
+    margin: 5% 5% 20px 10%;
     justify-content: space-around;
     text-align: center;
 }
@@ -220,7 +221,7 @@ footer nav a {
     border-bottom: 1px dashed black;
 }
 .sec-container1 img {
-    justify-content: center;
+    width: 900px;
     padding-bottom: 5%;
 }
 .sec-container {
